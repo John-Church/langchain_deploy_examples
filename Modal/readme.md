@@ -1,4 +1,4 @@
-# Langchain Vercel Example Deployment
+# Langchain Modal Example Deployment
 
 This repository showcases a very simple deployment of a Langchain script as a
 webhook on Modal.
